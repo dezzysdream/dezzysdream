@@ -15,24 +15,39 @@
 ---
 
 ### ⚒️ Tech Stack
+
+#### 💻 Languages
 <p align="left">
-  <!-- Languages -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-005C84?logo=postgresql&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
-  <!-- SWE -->
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
+</p>
+
+#### ⚙️ Frameworks & Libraries
+<p align="left">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <!-- Data -->
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" />
+</p>
+
+#### 📊 Data & Analytics
+<p align="left">
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-  <!-- Tools -->
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+</p>
+
+#### 🛠 Tools & Platforms
+<p align="left">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
 </p>
+
 
 ---
 
