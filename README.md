@@ -74,7 +74,6 @@
 
 ---
 
-### Let’s Connect
-- 📫 Email: your.email@domain.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/YOUR-HANDLE  
-- 🌐 Portfolio: https://YOUR-PORTFOLIO.com
+### Let’s Connect!
+- 📫 Email: dantesnava@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/dantesnava14/
