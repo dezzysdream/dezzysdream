@@ -61,9 +61,16 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dezzysdream&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezzysdream&layout=compact" height="150" />
+  <!-- Main stats: show icons, count all commits -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dezzysdream&show_icons=true&include_all_commits=true" height="150" />
+
+  <!-- Top languages: compact, emphasize your stack, hide noise -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezzysdream&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook&exclude_repo=old-portfolio,coursework-template" height="150" />
+
+  <!-- Optional: contribution streak -->
+  <img src="https://streak-stats.demolab.com?user=dezzysdream" height="150" />
 </p>
+
 
 ---
 
