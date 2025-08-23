@@ -2,13 +2,12 @@
 
 <h1 align="center">Hey, I'm Dantes 👋</h1>
 <p align="center">
-  Computer Science @ FIU • Seeking SWE & Data/Analytics Internships (2026)
+  Computer Science @ FIU • SWE & Data/Analytics
 </p>
 
 ---
 
 ### About Me
-- Build at the intersection of **software engineering** and **analytics**  
 - Currently shipping **CaseKeep** (React + FastAPI) — auth, REST APIs, and an analytics dashboard (Python + SQL + Power BI)  
 - Interested in **APIs, data modeling, and cloud** (learning CI/CD + basic AWS)  
 - I like projects where engineering decisions tie directly to **business impact**
