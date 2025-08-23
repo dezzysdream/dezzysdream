@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **dezzysdream/dezzysdream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +15,4 @@ Passionate about creating products that are both **technically sound** and **bus
 
 - 😄 Pronouns: He/Him
 
--->
+
