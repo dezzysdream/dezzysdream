@@ -1,6 +1,6 @@
 <!-- Profile README: Dantes | Balanced SWE + Data -->
 
-<h1 align="center">Hey, I'm Dantes 👋</h1>
+<h1 align="center">Hey, I'm Dantes 🔥</h1>
 <p align="center">
   Computer Science @ FIU • SWE & Data/Analytics
 </p>
@@ -8,9 +8,9 @@
 ---
 
 ### About Me
-- Currently shipping **CaseKeep** (React + FastAPI) — auth, REST APIs, and an analytics dashboard (Python + SQL + Power BI)  
-- Interested in **APIs, data modeling, and cloud** (learning CI/CD + basic AWS)  
-- I like projects where engineering decisions tie directly to **business impact**
+- 👨‍💻 Currently shipping **CaseKeep** (React + FastAPI) — auth, REST APIs, and an analytics dashboard (Python + SQL + Power BI)  
+- 😍 Interested in **APIs, data modeling, and cloud** (learning CI/CD + basic AWS)  
+- ☕ I like projects where engineering decisions tie directly to **business impact**
 
 ---
 
