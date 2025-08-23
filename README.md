@@ -18,6 +18,7 @@
 <p align="left">
   <!-- Languages -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-005C84?logo=postgresql&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
