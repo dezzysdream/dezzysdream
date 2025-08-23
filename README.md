@@ -1,8 +1,4 @@
-## Hi there 👋
-
-**dezzysdream/dezzysdream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 👋 I'm Dantes!
 
 🎓 Computer Science @ FIU | Seeking SWE & Data/Analytics Internships (2026)  
 
