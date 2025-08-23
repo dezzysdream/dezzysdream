@@ -39,7 +39,7 @@
 - **CaseKeep** — Study smarter for the bar: React + FastAPI + Postgres; JWT auth, paginated APIs, analytics views (Power BI)  
   _Repo:_ https://github.com/dezzysdream/CaseKeep  
 - **Data Projects** — Mini EDA notebooks: KPIs, cohort cuts, simple forecasting (pandas, matplotlib); SQL models included  
-  _Repo:_ https://github.com/dezzysdream/data-notebooks
+  _Repo:_ 
 
 ---
 
