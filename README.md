@@ -37,16 +37,16 @@
 
 ### Featured Work
 - **CaseKeep** — Study smarter for the bar: React + FastAPI + Postgres; JWT auth, paginated APIs, analytics views (Power BI)  
-  _Repo:_ https://github.com/tanzimine/CaseKeep  
+  _Repo:_ https://github.com/dezzysdream/CaseKeep  
 - **Data Projects** — Mini EDA notebooks: KPIs, cohort cuts, simple forecasting (pandas, matplotlib); SQL models included  
-  _Repo:_ https://github.com/tanzimine/data-notebooks
+  _Repo:_ https://github.com/dezzysdream/data-notebooks
 
 ---
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanzimine&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzimine&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dezzysdream&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezzysdream&layout=compact" height="150" />
 </p>
 
 ---
