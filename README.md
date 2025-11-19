@@ -54,9 +54,6 @@
 ### Featured Work
 - **CaseKeep** — Study smarter for the bar exam:
   _Repo:_ https://github.com/dezzysdream/CaseKeep2  
-- **Data Projects** — Mini EDA notebooks: KPIs, cohort cuts, simple forecasting (pandas, matplotlib); SQL models included  
-  _Repo:_ 
-
 ---
 
 ### 📊 GitHub Stats
