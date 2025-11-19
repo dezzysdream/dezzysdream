@@ -8,7 +8,7 @@
 ---
 
 ### About Me
-- 👨‍💻 Currently shipping **CaseKeep** (React + FastAPI) — auth, REST APIs, and an analytics dashboard (Python + SQL + Power BI)  
+- 👨‍💻 Currently shipping **CaseKeep** (HTML, CSS, Javascript) — auth, REST APIs, and an analytics dashboard ( Power BI)  
 - 😍 Interested in **APIs, data modeling, and cloud** (learning CI/CD + basic AWS)  
 - ☕ I like projects where engineering decisions tie directly to **business impact**
 
